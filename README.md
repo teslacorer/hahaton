@@ -4,7 +4,7 @@
 
 - Организация: Octagon
 - Лицензия: Apache-2.0 (см. LICENSE)
-- Репозиторий: https://github.com/teslacorer/hahaton
+- Репозиторий: https://github.com/teslacorer/Hackaton
 
 AXIOM — много‑модульный Java‑инструмент (Java 21, совместим с 17+) для автоматизированной проверки REST API: контракт‑валидация, ключевые проверки OWASP API Top 10, фаззинг, отчёты (JSON/HTML/PDF), лёгкий UI и интеграция в CI/CD.
 
